@@ -126,6 +126,11 @@ img{
     text-decoration: none;
     color: var(--white);
 }
+@media (min-width: 768px){ 
+    .nav-link{
+        font-size: 1.3rem;
+    }
+}
 .nav-link:hover{
     background-color: var(--white);
     color: var(--back);
