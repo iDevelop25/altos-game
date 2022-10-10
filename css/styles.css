@@ -119,17 +119,13 @@ img{
     padding: 1em;
     border-radius: 0.3em;
 }
+
 .nav-link{
     display: inline-block;
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     padding: 0.3em;
     text-decoration: none;
     color: var(--white);
-}
-@media (min-width: 768px){ 
-    .nav-link{
-        font-size: 1.3rem;
-    }
 }
 .nav-link:hover{
     background-color: var(--white);
